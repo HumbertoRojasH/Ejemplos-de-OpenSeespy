@@ -1,3 +1,3 @@
-# Ejemplos-de-OpenSeespy
+# Ejemplos de OpenSeespy
 
 Códigos desarrollados con openseespy
